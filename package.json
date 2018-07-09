@@ -1,5 +1,5 @@
 {
-  "name": "Sockets",
+  "name": "sockets",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,6 @@
     "nodemon": "^1.17.5"
   },
   "engines": {
-    "node": "4.1.1"
+    "node": "8.11.1"
   }
 }
